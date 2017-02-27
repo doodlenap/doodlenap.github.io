@@ -1,0 +1,104 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488181891370">
+  <folder name="css">
+    <file name="site_global.css" crc="101857279"/>
+    <file name="index.css" crc="3929160760" ref="index"/>
+    <file name="nomq_index.css" crc="4181249766" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="notosans-bold-webfont.woff" crc="3890573463"/>
+    <file name="notosans-bold-webfont.eot" crc="30618044"/>
+    <file name="notosans-bold-webfont.svg" crc="176221382"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3813622580" ref="index"/>
+    <file name="titlepiece.png" crc="289697160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titlepiece_2x.png" crc="321605925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="socialmediapiece.png" crc="429930304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="socialmediapiece_2x.png" crc="4173705993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="legalpiece.png" crc="166295067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="legalpiece_2x.png" crc="3846874254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_26percentbrightnessadded.png" crc="441120789" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_26percentbrightnessadded2.png" crc="444029750" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_26percentbrightnessadded_2x.png" crc="441120789" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titlepiece510x70.png" crc="353334611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titlepiece510x70_2x.png" crc="140584532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titlepiece303x42.png" crc="4151751945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titlepiece303x42_2x.png" crc="4249573188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="legalpiece183x53.png" crc="272628402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="legalpiece183x53_2x.png" crc="4134157167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_26percentbrightnessadded1100x899.png" crc="346008203" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_26percentbrightnessadded1100x899_2x.png" crc="4211202232" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_26percentbrightnessadded640x523.png" crc="95749006" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_26percentbrightnessadded640x523_2x.png" crc="198120141" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4198413676" seo="true" mt="1488180611890" redirect="true"/>
+</manifest>
