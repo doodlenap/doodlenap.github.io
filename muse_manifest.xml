@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488321204844">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488322562571">
   <folder name="assets">
     <file name="doodlenap_016_animation_socialmedia_even.mp4" crc="159263979" seo="true" mt="1488242150000"/>
     <file name="doodlenap_016_animation_socialmedia_even.png" crc="3884607403" seo="true" mt="1488242194000"/>
@@ -6,8 +6,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3978209447"/>
-    <file name="index.css" crc="3990908486" ref="index"/>
-    <file name="nomq_index.css" crc="3943083559" ref="index"/>
+    <file name="index.css" crc="170011765" ref="index"/>
+    <file name="nomq_index.css" crc="4238453962" ref="index"/>
+    <file name="doodle-nap-html-hide-and-not.css" crc="3990908486" ref="doodle-nap-html-hide-and-not"/>
+    <file name="nomq_doodle-nap-html-hide-and-not.css" crc="3943083559" ref="doodle-nap-html-hide-and-not"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-bold-webfont.woff" crc="3890573463"/>
@@ -15,65 +17,95 @@
     <file name="notosans-bold-webfont.svg" crc="176221382"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:doodle-nap-html-hide-and-not"/>
+    <file name="museutils.js" crc="4232573551" ref="index:doodle-nap-html-hide-and-not"/>
+    <file name="whatinput.js" crc="86476730" ref="index:doodle-nap-html-hide-and-not"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:doodle-nap-html-hide-and-not"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:doodle-nap-html-hide-and-not"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:doodle-nap-html-hide-and-not"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:doodle-nap-html-hide-and-not"/>
+    <file name="require.js" crc="4234670167" ref="index:doodle-nap-html-hide-and-not"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3813622580" ref="index"/>
-    <file name="titlepiece.png" crc="479691686" seo="true" ref="index">
+    <file name="favicon.ico" crc="3813622580" ref="doodle-nap-html-hide-and-not"/>
+    <file name="titlepiece.png" crc="479691686" seo="true" ref="index:doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
-    <file name="socialmediapiece.png" crc="3886979789" seo="true" ref="index">
+    <file name="socialmediapiece.png" crc="3886979789" seo="true" ref="index:doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
-    <file name="bg_26percentbrightnessadded.png" crc="128110154" ref="index">
+    <file name="bg_26percentbrightnessadded.png" crc="128110154" ref="index:doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
-    <file name="bg_26percentbrightnessadded2.png" crc="3758618194" ref="index">
+    <file name="bg_26percentbrightnessadded2.png" crc="3758618194" ref="index:doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
-    <file name="bg_26percentbrightnessadded_2x.png" crc="128110154" ref="index">
+    <file name="bg_26percentbrightnessadded_2x.png" crc="128110154" ref="index:doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
-    <file name="titlepiece303x42.png" crc="3893385572" seo="true" ref="index">
+    <file name="titlepiece303x42.png" crc="3893385572" seo="true" ref="doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="titlepiece508x70.png" crc="3788575386" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:doodle-nap-html-hide-and-not"/>
+    <file name="titlepiece508x70.png" crc="3788575386" seo="true" ref="doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
-    <file name="legalpiece.png" crc="4086729101" seo="true" ref="index">
+    <file name="legalpiece.png" crc="4086729101" seo="true" ref="index:doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
-    <file name="legalpiece_320.png" crc="3841948977" seo="true" ref="index">
+    <file name="legalpiece_320.png" crc="3841948977" seo="true" ref="index:doodle-nap-html-hide-and-not">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4265023709" seo="true" mt="1488321136087" redirect="true"/>
+  <file name="index.html" crc="3847431039" seo="true" mt="1488322542278" redirect="true"/>
+  <file name="doodle-nap-html-hide-and-not.html" crc="147062599" seo="true" mt="1488322086194" redirect="true"/>
 </manifest>

@@ -12,6 +12,24 @@
       <image:loc>http://doodlenap.com/images/socialmediapiece.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://doodlenap.com/images/legalpiece.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://doodlenap.com/images/legalpiece_320.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://doodlenap.com/doodle-nap-html-hide-and-not.html</loc>
+    <lastmod>2017-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://doodlenap.com/images/titlepiece.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://doodlenap.com/images/socialmediapiece.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://doodlenap.com/images/titlepiece303x42.png</image:loc>
     </image:image>
     <image:image>
