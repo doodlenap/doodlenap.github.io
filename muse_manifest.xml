@@ -1,8 +1,13 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488181891370">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488245942138">
+  <folder name="assets">
+    <file name="doodlenap_016_animation_socialmedia_even.mp4" crc="159263979" seo="true" mt="1488242150000"/>
+    <file name="doodlenap_016_animation_socialmedia_even.png" crc="3884607403" seo="true" mt="1488242194000"/>
+    <file name="doodlenap_016_animation_socialmedia_even.webm" crc="3982728160" seo="true" mt="1488243961000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="101857279"/>
-    <file name="index.css" crc="3929160760" ref="index"/>
-    <file name="nomq_index.css" crc="4181249766" ref="index"/>
+    <file name="site_global.css" crc="3978209447"/>
+    <file name="index.css" crc="274392252" ref="index"/>
+    <file name="nomq_index.css" crc="150751688" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-bold-webfont.woff" crc="3890573463"/>
@@ -24,12 +29,15 @@
     <file name="titlepiece.png" crc="289697160" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="titlepiece_2x.png" crc="321605925" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="socialmediapiece.png" crc="429930304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -42,13 +50,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="legalpiece.png" crc="166295067" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="legalpiece_2x.png" crc="3846874254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -59,8 +70,10 @@
     <file name="bg_26percentbrightnessadded2.png" crc="444029750" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="bg_26percentbrightnessadded_2x.png" crc="441120789" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -100,5 +113,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4198413676" seo="true" mt="1488180611890" redirect="true"/>
+  <file name="index.html" crc="4222927439" seo="true" mt="1488245751787" redirect="true"/>
 </manifest>
