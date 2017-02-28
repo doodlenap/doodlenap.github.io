@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488246271893">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488246899954">
   <folder name="assets">
     <file name="doodlenap_016_animation_socialmedia_even.mp4" crc="159263979" seo="true" mt="1488242150000"/>
     <file name="doodlenap_016_animation_socialmedia_even.png" crc="3884607403" seo="true" mt="1488242194000"/>
@@ -113,5 +113,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="510910891" seo="true" mt="1488246227171" redirect="true"/>
+  <file name="index.html" crc="4256507859" seo="true" mt="1488246866482" redirect="true"/>
 </manifest>
