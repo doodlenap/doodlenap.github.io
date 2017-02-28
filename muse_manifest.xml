@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488248349889">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488249493754">
   <folder name="assets">
     <file name="doodlenap_016_animation_socialmedia_even.mp4" crc="159263979" seo="true" mt="1488242150000"/>
     <file name="doodlenap_016_animation_socialmedia_even.png" crc="3884607403" seo="true" mt="1488242194000"/>
@@ -6,8 +6,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3978209447"/>
-    <file name="index.css" crc="289793739" ref="index"/>
-    <file name="nomq_index.css" crc="3884403732" ref="index"/>
+    <file name="index.css" crc="4280190175" ref="index"/>
+    <file name="nomq_index.css" crc="3921031200" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-bold-webfont.woff" crc="3890573463"/>
@@ -64,16 +64,16 @@
     <file name="titlepiece508x70.png" crc="3788575386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="legalpiece183x29.png" crc="3820207521" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="legalpiece.png" crc="4086729101" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="legalpiece_320.png" crc="3841948977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3954411248" seo="true" mt="1488248257392" redirect="true"/>
+  <file name="index.html" crc="106487714" seo="true" mt="1488249439367" redirect="true"/>
 </manifest>
