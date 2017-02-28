@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488251354145">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488252596203">
   <folder name="assets">
     <file name="doodlenap_016_animation_socialmedia_even.mp4" crc="159263979" seo="true" mt="1488242150000"/>
     <file name="doodlenap_016_animation_socialmedia_even.png" crc="3884607403" seo="true" mt="1488242194000"/>
@@ -6,8 +6,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3978209447"/>
-    <file name="index.css" crc="3769871933" ref="index"/>
-    <file name="nomq_index.css" crc="4027456261" ref="index"/>
+    <file name="index.css" crc="4011366164" ref="index"/>
+    <file name="nomq_index.css" crc="3949525197" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-bold-webfont.woff" crc="3890573463"/>
@@ -75,5 +75,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3895613048" seo="true" mt="1488251144311" redirect="true"/>
+  <file name="index.html" crc="151098016" seo="true" mt="1488252572748" redirect="true"/>
 </manifest>
