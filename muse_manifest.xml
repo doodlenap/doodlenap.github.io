@@ -1,27 +1,18 @@
-<<<<<<< HEAD
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488331823016">
-=======
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488331505415">
->>>>>>> fe6e00a4f017f1fc0494c602667e945c63af776a
-  <folder name="assets">
-    <file name="doodlenap_016_animation_socialmedia_even.png" crc="3884607403" seo="true" mt="1488242194000"/>
-    <file name="doodlenap_016_animation_socialmedia_even.mp4" crc="159263979" seo="true" mt="1488242150000"/>
-    <file name="doodlenap_016_animation_socialmedia_even.webm" crc="3982728160" seo="true" mt="1488243961000"/>
-  </folder>
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488332178296">
   <folder name="css">
-<<<<<<< HEAD
     <file name="site_global.css" crc="101857279"/>
     <file name="index.css" crc="4077313090" ref="index"/>
-=======
-    <file name="site_global.css" crc="3978209447"/>
-    <file name="index.css" crc="4284439743" ref="index"/>
->>>>>>> fe6e00a4f017f1fc0494c602667e945c63af776a
     <file name="nomq_index.css" crc="124581139" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-bold-webfont.woff" crc="3890573463"/>
     <file name="notosans-bold-webfont.eot" crc="30618044"/>
     <file name="notosans-bold-webfont.svg" crc="176221382"/>
+  </folder>
+  <folder name="assets">
+    <file name="doodlenap_016_animation_socialmedia_even.png" crc="3884607403" seo="true" mt="1488242194000"/>
+    <file name="doodlenap_016_animation_socialmedia_even_3sec.mp4" crc="207059939" seo="true" mt="1488327457000"/>
+    <file name="doodlenap_016_animation_socialmedia_even_3sec.webm" crc="3822793710" seo="true" mt="1488327538000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -39,9 +30,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
     <file name="socialmediapiece.png" crc="3886979789" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -50,16 +38,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+    </file>
+    <file name="legalpiece.png" crc="4086729101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="bg_26percentbrightnessadded.png" crc="128110154" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
     <file name="bg_26percentbrightnessadded2.png" crc="3758618194" ref="index">
       <caption webpage="index" alt=""/>
@@ -67,11 +54,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
     <file name="bg_26percentbrightnessadded_2x.png" crc="128110154" ref="index">
       <caption webpage="index" alt=""/>
@@ -79,43 +61,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
+    </file>
+    <file name="titlepiece508x70.png" crc="3788575386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="titlepiece303x42.png" crc="3893385572" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="titlepiece508x70.png" crc="3788575386" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-    </file>
-    <file name="legalpiece.png" crc="4086729101" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
     <file name="legalpiece_320.png" crc="3841948977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
-      <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-<<<<<<< HEAD
   <file name="index.html" crc="3802202611" seo="true" mt="1488328747854" redirect="true"/>
-=======
-  <file name="index.html" crc="248465785" seo="true" mt="1488331504021" redirect="true"/>
->>>>>>> fe6e00a4f017f1fc0494c602667e945c63af776a
 </manifest>
