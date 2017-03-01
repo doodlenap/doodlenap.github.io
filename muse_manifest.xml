@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488328197807">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488328498930">
   <folder name="assets">
     <file name="doodlenap_016_animation_socialmedia_even.png" crc="3884607403" seo="true" mt="1488242194000"/>
-    <file name="doodlenap_016_animation_socialmedia_even_5sec.mp4" crc="375791289" seo="true" mt="1488323908000"/>
-    <file name="doodlenap_016_animation_socialmedia_even_5sec.webm" crc="4270409007" seo="true" mt="1488324010000"/>
+    <file name="doodlenap_016_animation_socialmedia_even_3sec.mp4" crc="207059939" seo="true" mt="1488327457000"/>
+    <file name="doodlenap_016_animation_socialmedia_even_3sec.webm" crc="3822793710" seo="true" mt="1488327538000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3978209447"/>
+    <file name="site_global.css" crc="3849909888"/>
     <file name="index.css" crc="323334450" ref="index"/>
     <file name="nomq_index.css" crc="3943083559" ref="index"/>
   </folder>
@@ -104,5 +104,5 @@
       <caption webpage="doodle-nap-html-hide-and-not" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4044749966" seo="true" mt="1488328180189" redirect="true"/>
+  <file name="index.html" crc="3986144535" seo="true" mt="1488328494957" redirect="true"/>
 </manifest>
