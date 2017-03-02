@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488420447319">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488422222322">
   <folder name="css">
     <file name="site_global.css" crc="3978209447"/>
-    <file name="index.css" crc="47660861" ref="index"/>
-    <file name="nomq_index.css" crc="353481746" ref="index"/>
+    <file name="index.css" crc="4121639303" ref="index"/>
+    <file name="nomq_index.css" crc="377814629" ref="index"/>
     <file name="untitled-3.css" crc="4193191577" ref="untitled-3"/>
   </folder>
   <folder name="fonts">
@@ -76,6 +76,6 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3961292363" seo="true" mt="1488420420476" redirect="true"/>
+  <file name="index.html" crc="4081063273" seo="true" mt="1488422173151" redirect="true"/>
   <file name="untitled-3.html" crc="255516698" seo="true" mt="1488420264988" redirect="false"/>
 </manifest>
