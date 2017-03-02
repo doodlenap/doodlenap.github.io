@@ -1,8 +1,9 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488332178296">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="doodlenap.com" resolutions="1x,2x" timestamp="1488420447319">
   <folder name="css">
-    <file name="site_global.css" crc="101857279"/>
-    <file name="index.css" crc="4077313090" ref="index"/>
-    <file name="nomq_index.css" crc="124581139" ref="index"/>
+    <file name="site_global.css" crc="3978209447"/>
+    <file name="index.css" crc="47660861" ref="index"/>
+    <file name="nomq_index.css" crc="353481746" ref="index"/>
+    <file name="untitled-3.css" crc="4193191577" ref="untitled-3"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-bold-webfont.woff" crc="3890573463"/>
@@ -15,14 +16,14 @@
     <file name="doodlenap_016_animation_socialmedia_even_3sec.webm" crc="3822793710" seo="true" mt="1488327538000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-3"/>
+    <file name="museutils.js" crc="4232573551" ref="index:untitled-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-3"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:untitled-3"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:untitled-3"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index:untitled-3"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3813622580" ref="index"/>
@@ -75,5 +76,6 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3802202611" seo="true" mt="1488328747854" redirect="true"/>
+  <file name="index.html" crc="3961292363" seo="true" mt="1488420420476" redirect="true"/>
+  <file name="untitled-3.html" crc="255516698" seo="true" mt="1488420264988" redirect="false"/>
 </manifest>
